@@ -32,7 +32,7 @@ Each row in the CSV files contains:
 - Compare their performance using accuracy and classification metrics
 - Visualize sample images and label distribution
 
-### Best Model Accuracy 97.3% approx.
+### Best Model Accuracy 97.7% approx.
 
 ---
 
